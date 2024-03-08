@@ -18,12 +18,12 @@ CloudflareBulkDNSRemover is a powerful Bash script designed to simplify the proc
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/<your-username>/CloudflareBulkDNSRemover.git
+   git clone https://github.com/<your-username>/cloudflare-bulk-dns-remover.git
    ```
 
 2. **Navigate to the project directory:**
    ```bash
-   cd CloudflareBulkDNSRemover
+   cd cloudflare-bulk-dns-remover
    ```
 
 ## Configuration
